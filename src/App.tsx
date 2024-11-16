@@ -24,7 +24,7 @@ const regions: Region[] = [
   { name: 'Qarshi', lat: '38.8606', lon: '65.7847' },
   { name: 'Nukus', lat: '42.4531', lon: '59.6101' },
   { name: 'Andijon', lat: '40.7836', lon: '72.3500' },
-  { name: 'Namangan', lat: '41.0058', lon: '71.6426' },
+  { name: 'Namangan', lat: '41.00386984059317', lon: '71.63672248203974' },
   { name: 'Termiz', lat: '37.2245', lon: '67.2783' },
 ];
 
